@@ -1,5 +1,5 @@
-# automação de tarefas
-# 🛠️ Automação de Cadastro de Produtos
+# Automação de Tarefas
+## 🛠️ Automação de Cadastro de Produtos
 
 Este projeto demonstra como automatizar o login em uma página web e o cadastro de produtos a partir de um arquivo CSV utilizando **Python**.  
 O objetivo é mostrar na prática como usar bibliotecas como `pyautogui` e `pandas` para automatizar tarefas repetitivas.
